@@ -1,7 +1,7 @@
-_site
-.sass-cache
-.directory
-Thumbs.db
-_drafts
-.ruby-version
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
 Gemfile.lock
